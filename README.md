@@ -1,12 +1,13 @@
 # CCscaling-Evaluation
 Scripts needed for Lenderink et al 2024
 
+ScalingLibSmall.R contains a subset of my routines to create scaling object, statistics and reading and plotting of data
 
 scaling for observations
 ScalingCirculationIndexStandAlone_obs.R 
 
 The data for NL are freely available
-The data for SFR are NOT freely available. The processed object files (.Rdata) can be obtained here: ...
+The data for SFR are NOT freely available. The processed object files (.Rdata) which are produced in directories data_hourly_bootstrap data_hourly_bootstrap_abs can be obtained here: ...
 
 scaling for models
 ScalingCirculationIndexV3_bootstrap_models.R
