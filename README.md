@@ -24,4 +24,5 @@ Some other plots made by:
 CompareFromBootstrap_SFRcomparedNL.R
 ComparePOE_NL2SFR.R
 
-
+MergePlotsFromScaling_bootstrap_MJJAS.sc
+contains the merge of the different subplots to the plots in the paper. Uses a simple Latex based program to merge the subplots (not provided as it contains some systems specific binaries) but you can see here which are the subplots
